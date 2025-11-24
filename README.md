@@ -174,7 +174,6 @@ DEADLOCK DETECTADO
 
 ---
 
-## Autor
-Gabriel Miranda  
+Melany Ramirez
 Universidad LEAD – Sistemas Operativos  
 2025
