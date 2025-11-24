@@ -1,8 +1,7 @@
 # – Simulador de Deadlocks (SIN CONTROL)
 
 ## Descripción General
-Este proyecto implementa un simulador de asignación de recursos sin mecanismos de control, siguiendo las especificaciones de la Tarea Programada 3 – Sistemas Operativos (Universidad LEAD, 2025).
-
+Este proyecto implementa un simulador de asignación de recursos sin mecanismos de control, siguiendo las especificaciones de la Tarea Programada 3 – Sistemas Operativos
 El objetivo es modelar procesos y recursos mediante un grafo de asignación, simular solicitudes y liberaciones paso a paso y detectar deadlocks mediante la identificación de ciclos en el grafo.
 
 ---
